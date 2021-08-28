@@ -1,2 +1,2 @@
 # sharp_include_project
-Computing Education Service for the Underprivileged
+Online, Live Computing Education Service for the Underprivileged
